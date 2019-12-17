@@ -1,0 +1,19 @@
+Requirements:
+
+    Tools:
+        Jupyter Notebooks
+
+    Python:
+        Python 3.7 (Anaconda)
+
+    Libraries:
+        pandas
+        numpy
+        matplotlib.pyplot
+        seaborn
+
+    File Structure:
+        Provided, no need to modify file paths (as long as data is in \Data\)
+
+    Necessary Files:
+        nfl_games.csv
